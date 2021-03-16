@@ -33,3 +33,5 @@ bar_plot = df %>%
 
 # Save the plot in graphics/
 ggsave(filename = "graphics/average_rainfall.png", plot = bar_plot)
+
+#Adding a comment 
